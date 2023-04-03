@@ -1,1 +1,1 @@
-# proect_01
+# project_01
